@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'SFProDisplay-Bold', Helvetica, Arial, sans-serif;
+
+}
+
+body{
+    background-color: #f0f2f5;
+}
+.main_content{
+    width: 948px;
+    height: 536px;
+    /* background-color: rgb(163, 163, 163); */
+    margin-top:180px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+.col h2{
+    font-size: 24px;
+    padding-left: 25px;
+}
+
+.form_ele{
+    width:396px;
+    /* height:496px; */
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 15px;
+    padding-bottom:24px;
+}
+.email_id{
+    margin-bottom: 10px;
+}
+.pass{
+    margin-bottom: 15px;
+}
+.butt{
+    text-align: center;
+}
+.butt button{
+    background-color: #42b72a;
+    border-color: #42b72a;
+}
+.bott{
+    margin-top: 12px;
+    margin-left: 38px;
+}
+.bott p{
+    font-size: 14px;
+}
+.bott p a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+::placeholder{
+    font-size: 16px;
+}
+.text-center a{
+    font-size: 15px;
+}
+.space{
+    padding-top: 10px;
+}
